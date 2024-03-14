@@ -1,7 +1,7 @@
 /*************************************************************************/
 /* CT60A2500 C-ohjelmoinnin perusteet 
 * Tekijä: Natunen Aleksi
-* Opiskelijanumero: 001153516
+* Opiskelijanumero: RETRACTED
 * Päivämäärä: 12.03.2023
 * Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
 * lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
