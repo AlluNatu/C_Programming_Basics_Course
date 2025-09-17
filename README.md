@@ -1,5 +1,5 @@
 # CT60A2500 C-ohjelmoinnin perusteet
-This is repository for my course I completed in LUT University while doing my Bachelors Degree in Computer Science.
+This is repository for my course I completed in LUT University while doing my Bachelors Degree in Software Engineering.
 
 It contains my CT60A2500 C-ohjelmoinnin perusteet (Basics of C-Programming) course work. Which is worth 3 ECTS.
 
